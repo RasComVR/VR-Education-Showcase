@@ -1,5 +1,13 @@
 # Mobile VR Education Showcase
 
+<div align="center">
+  <a href="https://www.youtube.com/embed/dDrKDwf1EFY"><img src="https://raw.githubusercontent.com/rasbot/Mobile_VR_Education_Showcase/master/images/Screenshot_20170320-201939.png" alt="IMAGE ALT TEXT"></a>
+</div>
+
+<p style="text-align: center;">
+  <b>Click on this image to see a YouTube video of the project.</b>
+</p>
+
 To access a build of the Mobile VR Education Showcase, use this link:
 
 https://drive.google.com/file/d/1BgX6zO4yCjlYIO-qP0v6jYNhHPVTuP7O/view?usp=sharing
