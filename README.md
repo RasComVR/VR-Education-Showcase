@@ -59,13 +59,28 @@ Google launched an app which has guided tours that teachers can use in the class
 
 ## A Virtual Art Gallery
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rasbot/Mobile_VR_Education_Showcase/master/images/museum.gif" width="850" height="auto"/>
+</p>
 
 
 ## 360 Videos in VR
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rasbot/Mobile_VR_Education_Showcase/master/images/sc4.PNG" width="850" height="auto"/>
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rasbot/Mobile_VR_Education_Showcase/master/images/3panel.gif" width="850" height="auto"/>
+</p>
 
 ## Science Class Use Cases
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rasbot/Mobile_VR_Education_Showcase/master/images/sc5.gif" width="850" height="auto"/>
+</p>
+
+## Android Build
 
 To access a build of the Mobile VR Education Showcase, use this link:
 
