@@ -51,13 +51,16 @@ Apps can be made which allows for students to work through interactive animation
 
 ## Google Expeditions
 
-Google launched an app which has guided tours that teachers can use in the classroom. The teacher has the app installed on a tablet or phone, and the students can all use their smartphones in cardboard viewers to experience the app. This showcase introduces how this can be used in the classroom to enable virtual fieldtrips. 
+<div class=contentDiv id='contextDiv'>
+  <img align="right" src="https://raw.githubusercontent.com/rasbot/Mobile_VR_Education_Showcase/master/images/Expeditions0.png" width='275' height='auto' ></img>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rasbot/Mobile_VR_Education_Showcase/master/images/Expeditions0.png" width="550" height="auto"/>
-</p>
+  <p align='left'> 
+    Google launched an app which has guided tours that teachers can use in the classroom. The teacher has the app installed on a tablet or phone, and the students can all use their smartphones in cardboard viewers to experience the app. This showcase introduces how this can be used in the classroom to enable virtual fieldtrips. Every student will launch the app and connect to the teacher's tour. The teacher selects a virtual tour to take the class on. The class can visit the international space station, other countries and tourist locations, underwater environments, and even caves with ancient cave paintings. When the tour is launched, the class will go through a series of 360 photos.
+    
+  </p>
+</div>
 
-Every student will launch the app and connect to the teacher's tour. The teacher selects a virtual tour to take the class on. The class can visit the international space station, other countries and tourist locations, underwater environments, and even caves with ancient cave paintings. When the tour is launched, the class will go through a series of 360 photos.
+<br/><br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rasbot/Mobile_VR_Education_Showcase/master/images/Expeditions_VIEW.png" width="550" height="auto"/>
