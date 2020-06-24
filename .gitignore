@@ -27,10 +27,7 @@
 .vs/
 
 # For this project, some asset folders will be ignored
-Assets/Art\ Museum\ Props
-Assets/SKY\ city\ lite
-Assets/Audio
-Assets/SkyBox\ Volume\ 2
+Assets/Audio/Satellite Reign Soundtrack.wav
 
 # Gradle cache directory
 .gradle/
